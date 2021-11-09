@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-09T16:32:39 CST" name="Default Suite" finished-at="2021-11-09T16:32:47 CST" duration-ms="7844">
+    <groups>
+    </groups>
+    <test started-at="2021-11-09T16:32:39 CST" name="REST_Assured_Automation_Java" finished-at="2021-11-09T16:32:47 CST" duration-ms="7844">
+      <class name="APITest">
+        <test-method signature="testCase1()[pri:0, instance:APITest@32a068d1]" started-at="2021-11-09T16:32:39 CST" name="testCase1" finished-at="2021-11-09T16:32:43 CST" duration-ms="3592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase2()[pri:0, instance:APITest@32a068d1]" started-at="2021-11-09T16:32:43 CST" name="testCase2" finished-at="2021-11-09T16:32:43 CST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method signature="testCase3()[pri:0, instance:APITest@32a068d1]" started-at="2021-11-09T16:32:43 CST" name="testCase3" finished-at="2021-11-09T16:32:43 CST" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method signature="testCase4()[pri:0, instance:APITest@32a068d1]" started-at="2021-11-09T16:32:43 CST" name="testCase4" finished-at="2021-11-09T16:32:47 CST" duration-ms="3423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+      </class> <!-- APITest -->
+    </test> <!-- REST_Assured_Automation_Java -->
+  </suite> <!-- Default Suite -->
+</testng-results>
